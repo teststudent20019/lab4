@@ -80,6 +80,7 @@ void main(void)
 	std::cout << "17. Домашні тварини: Попугай\n";
 	std::cout << "18. Подорожі: не подорожував.\n";
 	std::cout << "19. Громадська діяльність: -\n";
+	std::cout << "20. Кількість іноземних мов: одна\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
