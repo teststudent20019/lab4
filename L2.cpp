@@ -7,6 +7,7 @@ void main(void)
 {
 	setlocale(LC_ALL, "Ukr");
 	std::cout << "1. Паламурчук Антон Олегович\n";
+	std::cout << "2. Дата народження: 19.02.1999\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
