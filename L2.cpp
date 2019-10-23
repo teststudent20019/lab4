@@ -23,6 +23,7 @@ void main(void)
 	std::cout << "10. Номер телефону: (098) 999-99-99\n";
 	std::cout << "11: Судимість: не маю\n";
 	std::cout << "12. Кількість іноземних мов: Англійська та Німецька\n";
+	std::cout << "6. Сімейний стан: неодружений\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
