@@ -3,9 +3,10 @@
 
 #include <iostream>
 
-int main()
+void main(void)
 {
-    std::cout << "Hello World!\n";
+	setlocale(LC_ALL, "Ukr");
+	std::cout << "1. Паламурчук Антон Олегович\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
