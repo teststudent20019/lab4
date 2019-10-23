@@ -44,6 +44,7 @@ void main(void)
 	std::cout << "12. Фактична домашня адреса: м.Вінниця вул.Ринкова, буд 7.\n";
 	std::cout << "13. Номер телефону: (098) 999-99-99\n";
 	std::cout << "14. Е-mail: antons90@gmail.com\n";
+	std::cout << "15: Судимість: не маю\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
