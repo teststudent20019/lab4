@@ -29,6 +29,7 @@ void main(void)
 	std::cout << "12. Додаткові відомості: "
 		<< "Володію двома іноземними мовами (німецькою, російською); вивчаю англійську мову. Рідна мова –українська.\n";
 	std::cout << "13. Фактична домашня адреса: м.Вінниця вул.Ринкова, буд 7.\n";
+	std::cout << "14. Е-mail: qwertyasdfgzxcv@gmail.com\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
