@@ -32,6 +32,7 @@ void main(void)
 	std::cout << "14. Е-mail: qwertyasdfgzxcv@gmail.com\n";
 	std::cout << "15. Паспортні дані: ЕА 536126,\n"
 		<< "виданий Київським МВ УМВС 6 вересня 2015 року, реєстрація за адресою: Київська обл., м. Київ, вул. Шевченка, 19 кв. 4\n";
+	std::cout << "16. Віросповідання: Католик.\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
