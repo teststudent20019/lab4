@@ -21,6 +21,7 @@ void main(void)
 	std::cout << "8. Хобі: Біг на довгі дистанції.\n";
 	std::cout << "9. Інформація про особисті відзнаки: Зайняв перше місце у конкурсі за відмінну влучність";
 	std::cout << "10. Номер телефону: (098) 999-99-99\n";
+	std::cout << "11: Судимість: не маю\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
