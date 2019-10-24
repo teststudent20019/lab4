@@ -21,6 +21,7 @@ void main(void)
 		<< "Мати – Паламурчук Галина Володимирівна\n"
 		<< "Батько – Паламурчук Руслан Олегович\n";
 	std::cout << "8. Домашні тварини: Кішка\n";
+	std::cout << "9. Трудова діяльність: студент.\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
