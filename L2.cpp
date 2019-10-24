@@ -20,6 +20,7 @@ void main(void)
 	std::cout << "7. Відомості про батьків:\n"
 		<< "Мати – Паламурчук Галина Володимирівна\n"
 		<< "Батько – Паламурчук Руслан Олегович\n";
+	std::cout << "8. Домашні тварини: Кішка\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
