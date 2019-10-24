@@ -55,6 +55,7 @@ void main(void)
 	std::cout << "14: Судимість: не маю\n";
 	std::cout << "15. Домашні тварини: не маю\n";
 	std::cout << "13. Фактична домашня адреса: м.Вінниця вул.Ринкова, буд 7.\n";
+	std::cout << "14. Номер телефону: (098) 000-00-00\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
