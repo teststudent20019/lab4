@@ -36,6 +36,7 @@ void main(void)
 	std::cout << "16. Віросповідання: Католик.\n";
 	std::cout << "14: Судимість: не маю\n";
 	std::cout << "15. Домашні тварини: не маю\n";
+	std::cout << "13. Фактична домашня адреса: м.Вінниця вул.Ринкова, буд 7.\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
